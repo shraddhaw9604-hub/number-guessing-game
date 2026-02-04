@@ -1,7 +1,5 @@
 import random
-
 print("Welcome to Number Guessing Game")
-
 number = random.randint(1, 10)
 
 while True:
